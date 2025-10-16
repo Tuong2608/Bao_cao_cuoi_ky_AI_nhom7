@@ -4,7 +4,7 @@
 
 **Lớp:** ARIN330585_04CLC  
 **Môn học:** Trí tuệ nhân tạo  
-**Giảng viên hướng dẫn:** Phan Thị Huyền Trang
+**Giảng viên hướng dẫn:** Phan Thị Huyền Trang   
 **Sinh viên thực hiện 1:** Trần Quang Toản  
 **MSSV 1:** 23110158  
 **Sinh viên thực hiện 2:** Trần Văn Tưởng  
@@ -18,9 +18,15 @@
 - [Cài đặt](#-cài-đặt)
 - [Hướng dẫn sử dụng](#-hướng-dẫn-sử-dụng)
 - [Các thuật toán](#-các-thuật-toán)
-- [Demo](#-demo)
 - [Kết quả](#-kết-quả)
-
+- [Demo](#-demo)
+- [Xử lý lỗi thường gặp](#-xử-lý-lỗi-thường-gặp)
+- [Cách kiểm tra bài tập](#-cách-kiểm-tra-bài-tập)
+- [Điểm mạnh của đồ án](#-điểm-mạnh-của-đồ-án)
+- [Tài liệu tham khảo](#-tài-liệu-tham-khảo)
+- [Giấy phép](#-giấy-phép)
+- [Lời cảm ơn](#-lời-cảm-ơn)
+- 
 ---
 
 ##  GIỚI THIỆU
@@ -271,7 +277,6 @@ pip install -r requirements.txt
 
 [▶️ Xem video demo tại đây](https://drive.google.com/file/d/1-IwQsiKrUis9yjktsz5pcZxPLks3b-uB/view?usp=sharing)
 
-###  Screenshots:
 
 #### 1. Giao diện chính - Classic Mode:
 - Bàn chơi bên trái
