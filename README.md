@@ -129,7 +129,7 @@ pip install -r requirements.txt
 - **Ưu điểm**: Luôn tìm ra lời giải tối ưu
 - **Nhược điểm**: Tốn nhiều bộ nhớ
 
-![BFS Demo]([BFS.gif](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/BFS.gif))
+![BFS Demo](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/BFS.gif)
 
 ---
 
@@ -139,7 +139,7 @@ pip install -r requirements.txt
 - **Ưu điểm**: Tiết kiệm bộ nhớ
 - **Nhược điểm**: Không đảm bảo lời giải tối ưu
 
-![DFS Demo]([DFS.gif](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/DFS.gif))
+![DFS Demo](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/DFS.gif)
 
 ---
 
@@ -149,7 +149,7 @@ pip install -r requirements.txt
 - **Đặc điểm**: Kết hợp BFS và Greedy, sử dụng f(n) = g(n) + h(n)
 - **Ưu điểm**: Hiệu quả và tối ưu
 
-![A* Demo]([Astar.gif](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/Astar.gif))
+![A* Demo](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/Astar.gif)
 
 ---
 
@@ -160,7 +160,7 @@ pip install -r requirements.txt
 - **Ưu điểm**: Nhanh
 - **Nhược điểm**: Không đảm bảo tối ưu
 
-![Greedy Demo]([Greedy.gif](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/Greedy.gif))
+![Greedy Demo](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/Greedy.gif)
 
 ---
 
@@ -173,7 +173,7 @@ pip install -r requirements.txt
 - **Ưu điểm**: Thoát được cực trị cục bộ
 - **Nhược điểm**: Không đảm bảo tối ưu
 
-![SA Demo]([SA.gif](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/SA.gif))
+![SA Demo](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/SA.gif)
 
 ---
 
@@ -186,7 +186,7 @@ pip install -r requirements.txt
 - **Ưu điểm**: Đơn giản
 - **Nhược điểm**: Dễ bị kẹt cực trị cục bộ
 
-![HC Demo]([HC.gif](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/HC.gif))
+![HC Demo](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/HC.gif)
 
 ---
 
@@ -196,7 +196,7 @@ pip install -r requirements.txt
 - **Ưu điểm**: Đảm bảo tìm được lời giải nếu có
 - **Nhược điểm**: Chậm với bài toán lớn
 
-![Backtracking Demo]([BackTracking.gif](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/BackTracking.gif))
+![Backtracking Demo](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/BackTracking.gif)
 
 ---
 
@@ -221,13 +221,13 @@ pip install -r requirements.txt
 - **Ứng dụng**: Hidden Mode và Blind Mode
 
 ####  Hidden Mode:
-![And-Or Hidden]([andorhidden.gif](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/andorhidden.gif))
+![And-Or Hidden](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/andorhidden.gif)
 
 ####  Blind Mode:
-![And-Or Blind]([andorblind.gif](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/andorblind.gif))
+![And-Or Blind](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/andorblind.gif)
 
 ####  Classic Mode:
-![And-Or Classic]([andor.gif](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/andor.gif))
+![And-Or Classic](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/andor.gif)
 
 ---
 
@@ -269,7 +269,7 @@ pip install -r requirements.txt
 ###  Video Demo đầy đủ:
 > *Video demo chương trình với tất cả tính năng và thuật toán*
 
-[▶️ Xem video demo tại đây]([https://drive.google.com/file/d/YOUR_VIDEO_ID](https://drive.google.com/file/d/1-IwQsiKrUis9yjktsz5pcZxPLks3b-uB/view?usp=sharing))
+[▶️ Xem video demo tại đây](https://drive.google.com/file/d/1-IwQsiKrUis9yjktsz5pcZxPLks3b-uB/view?usp=sharing)
 
 ###  Screenshots:
 
