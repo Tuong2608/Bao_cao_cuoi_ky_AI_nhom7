@@ -2,13 +2,13 @@
 
 > **Đồ án cuối kỳ môn Trí tuệ nhân tạo** - Giải bài toán Water Sort Puzzle bằng 9 thuật toán AI khác nhau với giao diện đồ họa tương tác.
 
+**Lớp:** ARIN330585_04CLC  
+**Môn học:** Trí tuệ nhân tạo  
+**Giảng viên hướng dẫn:** Phan Thị Huyền Trang
 **Sinh viên thực hiện 1:** Trần Quang Toản  
 **MSSV 1:** 23110158  
 **Sinh viên thực hiện 2:** Trần Văn Tưởng  
 **MSSV 2:** 231101570   
-**Lớp:** ARIN330585_04CLC  
-**Môn học:** Trí tuệ nhân tạo  
-**Giảng viên hướng dẫn:** Phan Thị Huyền Trang
 
 ---
 
@@ -209,7 +209,7 @@ pip install -r requirements.txt
   - Limit: 10
 - **Ưu điểm**: Hiệu quả với bài toán tối ưu phức tạp
 
-![ABCA Demo]([ABCA.gif]([https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/ABCA.gif](https://github.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/blob/main/assets_report/ABCA.gif)))
+![ABCA Demo](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/ABCA.gif](https://github.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/blob/main/assets_report/ABCA.gif)
 
 ---
 
@@ -248,13 +248,19 @@ pip install -r requirements.txt
 ###  Thuật toán đặc biệt:
 - **And-Or Search**: Duy nhất giải được Blind Mode
 
-### 📈 So sánh hiệu năng (Level 4 màu):
-| Thuật toán | Steps | Time (s) | Nodes | Tối ưu |
-|------------|-------|----------|-------|---------|
-| BFS | 12 | 0.045 | 1243 | ✅ |
-| A* | 12 | 0.032 | 456 | ✅ |
-| Greedy | 15 | 0.018 | 234 | ❌ |
-| DFS | 18 | 0.021 | 567 | ❌ |
+### 📈 Bảng so sánh chi tiết - Level 4 màu (Classic Mode):
+
+| 🏆 Thuật toán | 📏 Steps | ⏱️ Time (s) | 🔍 Nodes | ✅ Tối ưu | 💾 Memory | 🎯 Tỷ lệ TC | 📝 Ghi chú |
+|--------------|----------|-------------|----------|-----------|-----------|-------------|-----------|
+| **BFS** | 12 | 0.045 | 1,243 | ✅ | Cao | 100% | Lời giải ngắn nhất |
+| **DFS** | 18 | 0.021 | 567 | ❌ | Thấp | 100% | Nhanh nhưng dài |
+| **A\*** | 12 | 0.032 | 456 | ✅ | Trung bình | 100% | Cân bằng tốt nhất |
+| **Greedy** | 15 | 0.018 | 234 | ❌ | Thấp | 100% | Nhanh nhất |
+| **SA** | 16 | 0.128 | 890 | ❌ | Thấp | 85% | Có thể fail |
+| **HC+Restarts** | 14 | 0.095 | 672 | ❌ | Thấp | 70% | Dễ bị stuck |
+| **Backtracking** | 12 | 0.156 | 2,341 | ✅ | Cao | 100% | Chậm nhưng chắc chắn |
+| **ABCA** | 13 | 0.234 | 10,000 | ❌ | Cao | 90% | Tốt với bài khó |
+| **And-Or** | 12 | 0.067 | 789 | ✅ | Cao | 100% | Tốt với Hidden/Blind |
 
 ---
 
