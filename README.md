@@ -282,23 +282,28 @@ pip install -r requirements.txt
 - Bàn chơi bên trái
 - Panel điều khiển bên phải
 - 9 nút thuật toán
+![classic_demo](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/classic.jpg)
 
 #### 2. Chế độ Hidden Mode:
 - Chỉ thấy lớp nước trên cùng
 - Các lớp dưới hiển thị dấu "?"
+![hidden_demo](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/hidden.jpg)
 
 #### 3. Chế độ Blind Mode:
 - Tất cả màu đều ẩn
 - Chỉ And-Or Search có thể giải
+![blind_demo](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/blind.jpg)
 
 #### 4. Solution Viewer:
 - Xem từng bước giải pháp
 - Điều khiển Next/Previous
 - Hiển thị số bước
+![solution_viewer](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/soluton_viewer.jpg)
 
 #### 5. Compare Results:
 - Bảng so sánh các thuật toán
 - Hiển thị Steps, Time, Nodes
+![compare_result](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/compare.jpg)
 
 ---
 
