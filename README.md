@@ -209,7 +209,7 @@ pip install -r requirements.txt
   - Limit: 10
 - **Ưu điểm**: Hiệu quả với bài toán tối ưu phức tạp
 
-![ABCA Demo]([ABCA.gif](https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/ABCA.gif))
+![ABCA Demo]([ABCA.gif]([https://raw.githubusercontent.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/main/assets_report/ABCA.gif](https://github.com/Tuong2608/Bao_cao_cuoi_ky_AI_nhom7/blob/main/assets_report/ABCA.gif)))
 
 ---
 
